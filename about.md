@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Singcy George
 
-Hi, my name is Singcy George. I have a Master's Degree in Environmental Science from the University of Northampton. I'm married to a lovely husband and moved to the US where I now work for a bank as a teller.
+Hi, my name is Singcy George. I have a Master's Degree in Environmental Science from the University of Northampton. I'm married to a lovely husband and moved to the US where I now work for a bank.
 
 Aside from Environmental Science some of my other interests include photography, movies, and working out.
 
@@ -17,5 +17,7 @@ My other social network profiles:
 | Site | Link |
 |------|------|
 | Facebook | [https://www.facebook.com/singcy.george](https://www.facebook.com/singcy.george) |
+| GitHub | [https://github.com/singcygeorge](https://github.com/singcygeorge) |
+| Twitter | [@singcygeorge](https://twitter.com/singcygeorge) |
 | LinkedIn | []() |
-| GitHub | []() |
+
